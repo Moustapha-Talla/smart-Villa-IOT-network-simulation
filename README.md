@@ -14,7 +14,7 @@ Architecture réseau d'entreprise simulée sous Cisco Packet Tracer pour une mai
 
 Modèle hiérarchique à deux niveaux (Core/Access), avec deux switches de cœur redondants pour éliminer tout point de défaillance unique.
 
-![Topologie](screenshots/topologie.png)
+![Topologie](screenshots/ARCHI.png)
 
 ## Segmentation réseau
 
